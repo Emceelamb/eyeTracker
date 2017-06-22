@@ -1,0 +1,18 @@
+﻿  ofApp.cpp
+C:\Users\blargh\Documents\Code\openFrameworks\addons\ofxCv\libs\ofxCv\include\ofxCv/Tracker.h(324): warning C4018: '<': signed/unsigned mismatch
+videoInputD.lib(videoInput.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  uriparser.lib(UriParse.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+videoInputD.lib(videoInput.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+     Creating library bin\test2_debug.lib and object bin\test2_debug.exp
+  Generating code
+  Finished generating code
+  test2.vcxproj -> C:\Users\blargh\Documents\Code\openFrameworks\apps\myApps\test2\bin\test2_debug.exe
+  test2.vcxproj -> bin\test2_debug.pdb (Full PDB)
+  
+  	                   2	C:\Users\blargh\Documents\Code\openFrameworks\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 5647872	C:\Users\blargh\Documents\Code\openFrameworks\apps\myApps\test2\bin\FreeImage.dll
+  
+  	                   1	C:\Users\blargh\Documents\Code\openFrameworks\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	C:\Users\blargh\Documents\Code\openFrameworks\apps\myApps\test2\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	C:\Users\blargh\Documents\Code\openFrameworks\apps\myApps\test2\bin\fmodexL.dll
